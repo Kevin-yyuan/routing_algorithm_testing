@@ -50,7 +50,7 @@ For each metric, we established a null and alternative hypothesis:
   - **H0 (Null Hypothesis):** There is no significant difference in delivery time between the control and eco algorithms.
   - **H1 (Alternative Hypothesis):** There is a significant difference in delivery time between the control and eco algorithms.
 
-For a detailed look at the analysis, the Jupyter Notebook is available on [GitHub](https://github.com/Kevin-yyuan/routing_algorithm_testing.git/blob/main/ab_test_analysis.ipynb).
+For a detailed look at the analysis, the Jupyter Notebook is available on [GitHub](https://github.com/Kevin-yyuan/routing_algorithm_testing/blob/main/ab_test_analysis.ipynb).
 
 ---
 
